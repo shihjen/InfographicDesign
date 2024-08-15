@@ -5,4 +5,4 @@ These visual aids are designed to provide quick and effective guidance to studen
 This repository is designed to keep all the infographic posters I have created and to summarize them on HTML pages.
 
 ## Latest Design
-![latest](img/lab-ergonomics.png)
+![latest](img/bsl2.jpg)
